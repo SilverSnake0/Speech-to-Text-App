@@ -4,7 +4,7 @@
 
 The "Speech to Text App" is a simple user-friendly GUI application that translates spoken language into text in real-time. It provides users with the option to convert the transcribed text into different languages and have the translated text read out loud. This app was made as a fun project to explore and learn how similar voice-to-text and translation apps are created.
 
-![voice to text app snapshot](\speech_to_text_screenshot.png)
+![voice to text app snapshot](speech_to_text_screenshot.png)
 
 ### Features:
 
